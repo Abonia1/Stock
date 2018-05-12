@@ -1,0 +1,14 @@
+C:\Users\agustine raj\Desktop\Stock\Stock\bin\Release\Stock.exe.config
+C:\Users\agustine raj\Desktop\Stock\Stock\bin\Release\Stock.exe
+C:\Users\agustine raj\Desktop\Stock\Stock\bin\Release\Stock.pdb
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.Login.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.Products.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.ProductsList.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.Properties.Resources.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.Stock.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.StockList.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.StockMain.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.csproj.GenerateResource.Cache
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.csproj.CoreCompileInputs.cache
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.exe
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Release\Stock.pdb

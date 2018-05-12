@@ -1,0 +1,43 @@
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.Products.resources
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\agustine raj\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\agustine raj\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\agustine raj\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.ProductsList.resources
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.StockList.resources
+C:\Users\agustine raj\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\agustine raj\Desktop\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\agustine raj\Desktop\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\agustine raj\Desktop\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.Products.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.ProductsList.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.StockList.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\agustine raj\Desktop\Stock\Stock\obj\Debug\Stock.pdb
+C:\Apache24\htdocs\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Apache24\htdocs\Stock\Stock\bin\Debug\Stock.exe
+C:\Apache24\htdocs\Stock\Stock\bin\Debug\Stock.pdb
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.Products.resources
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.ProductsList.resources
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.StockList.resources
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.exe
+C:\Apache24\htdocs\Stock\Stock\obj\Debug\Stock.pdb
