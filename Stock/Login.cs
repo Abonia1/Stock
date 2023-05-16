@@ -39,20 +39,43 @@ namespace Stock
         {
             //to check username and password
             SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=Stock;Integrated Security=True");
-            SqlDataAdapter sda = new SqlDataAdapter(@"SELECT *
-  FROM [Stock].[dbo].[Login] Where UserName='"+textBox1.Text+"' and Password='"+textBox2.Text+"'", con);
-            DataTable dt = new DataTable();
-            sda.Fill(dt);
-            if (dt.Rows.Count == 1)
+  
+            string commandText = "SELECT * FROM [Stock].[dbo].[Login] WHERE UserName=@user and Password=@pass;";
+
+            using (con)
             {
-                this.Hide();
-                StockMain main = new StockMain();
-                main.Show();
-            }
-            else
-            {
-                MessageBox.Show("Invalid Username and Password!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                button1_Click(sender,e);
+                SqlCommand command = new SqlCommand(commandText, con);
+                command.Parameters.Add("@user", SqlDbType.VarChar);
+                command.Parameters["@user"].Value = textBox1.Text;
+                command.Parameters.Add("@pass", SqlDbType.VarChar);
+                command.Parameters["@user"].Value = textBox2.Text;
+
+                try
+                {
+                    con.Open();
+
+                    SqlDataAdapter sda = new SqlDataAdapter(command, con);
+
+                    DataTable dt = new DataTable();
+                    sda.Fill(dt);
+                    if (dt.Rows.Count == 1)
+                    {
+                        this.Hide();
+                        StockMain main = new StockMain();
+                        main.Show();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Invalid Username and Password!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        button1_Click(sender,e);
+                    }
+                        Int32 rowsAffected = command.ExecuteNonQuery();
+                        Console.WriteLine("RowsAffected: {0}", rowsAffected);
+                }
+                catch (Exception ex)
+                {
+                        Console.WriteLine(ex.Message);
+                }
             }
         }
 
